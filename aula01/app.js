@@ -36,3 +36,5 @@ console.log(result)
 //este metodo não modifica a fullname
 //argumento é o que se especifica dentro ()
 //nunca será parametro.
+// (fullname.length"isso é uma propriedade dessa string)
+//frizar invocação de método será sempre em ()
